@@ -4,5 +4,5 @@ author: BruceChen2017
 github_username: BruceChen2017
 description: Personal Blogs
 show_excerpts: true
-plugin:
+plugins:
 - jekyll-feed
